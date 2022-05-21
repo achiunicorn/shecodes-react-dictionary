@@ -1,4 +1,7 @@
 .Dictionary {
-  text-align: center;
   margin: 0 auto;
+}
+
+.Dictionary form {
+  text-align: center;
 }
