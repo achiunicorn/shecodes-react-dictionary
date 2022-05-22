@@ -1,3 +1,9 @@
+.App {
+  padding: 60px 0 100px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 body {
   background: #f9f1f1;
   font-family: "Quicksand", sans-serif;
@@ -6,10 +12,6 @@ body {
 
 a {
   color: #ff6278;
-}
-
-.App-header {
-  margin: 50px 0 0;
 }
 
 .App-header h1 {
@@ -28,6 +30,5 @@ a {
 
 .App-footer {
   text-align: center;
-  margin: 30px 0;
   font-size: 12px;
 }

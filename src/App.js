@@ -11,7 +11,7 @@ export default function App() {
           <h1>dictionary</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="book" />
+          <Dictionary defaultKeyword="code" />
         </main>
         <footer className="App-footer">
           Coded by Amanda Chiu. Open-sourced on{" "}
