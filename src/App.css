@@ -1,16 +1,27 @@
+body {
+  background: #f9f1f1;
+  font-family: "Quicksand", sans-serif;
+  color: #3c3742;
+}
+
+a {
+  color: #ff6278;
+}
+
 .App-header {
-  margin: 30px 0;
+  margin: 50px 0 0;
 }
 
 .App-header h1 {
   text-align: center;
-  padding: 20px;
-  margin-top: 10px;
-  font-size: 42px;
+  margin: 20px;
+  font-size: 46px;
+  font-weight: 700;
+  color: #51479a;
 }
 
 .App-logo {
-  max-width: 140px;
+  max-width: 120px;
   display: block;
   margin: 0 auto;
 }
