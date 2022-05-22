@@ -14,18 +14,36 @@ export default function App() {
           <Dictionary defaultKeyword="code" />
         </main>
         <footer className="App-footer">
-          Coded by Amanda Chiu. Open-sourced on{" "}
-          <a
-            href="https://github.com/achiunicorn/shecodes-react-dictionary"
-            title="GitHub repository"
-          >
-            GitHub
-          </a>
+          <div>
+            {" "}
+            Coded by Amanda Chiu. Open-sourced on{" "}
+            <a
+              href="https://github.com/achiunicorn/shecodes-react-dictionary"
+              title="GitHub repository"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>
+          </div>
+          <div>
+            Hosted on{" "}
+            <a
+              href="https://www.netlify.com/"
+              title="Netlify Homepage"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
+          </div>
           <div>
             Logo Credit:{" "}
             <a
               href="https://www.flaticon.com/free-icons/dictionary"
               title="dictionary icons"
+              target="_blank"
+              rel="noreferrer"
             >
               Dictionary icons created by Freepik - Flaticon
             </a>
